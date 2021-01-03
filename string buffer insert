@@ -1,0 +1,10 @@
+string buffer insert 
+  public class stringlnameconcat {
+    public static void main(string args[]) {
+      stringbuffer s=new stringbuffer("hello");
+      s.insert(1, "jyoti");
+      system.out.println(s);
+      }
+}      
+      
+      
