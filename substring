@@ -1,0 +1,8 @@
+substring 
+public class substring {
+  public static void main(string args[]) {
+    string s="jyoti panchal";
+    system.out.println(s.substring(0,5));
+    system.out.println(s.substring(5));
+ }
+} 
