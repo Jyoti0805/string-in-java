@@ -1,0 +1,8 @@
+ string builder reverse
+ public class stringlnamereverse {
+  public static void main(string args[]) {
+  stringbuilder s=new stringbuilder ("jyoti");
+  s.reverse();
+  system.out.println(s);
+  }
+  }
