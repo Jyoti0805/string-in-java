@@ -1,0 +1,7 @@
+public class string {
+     public static void main(string args[]) {
+     string s=" jyoti ";
+     system.out.println(s);
+     system.out.println(s.trim());
+     }
+  }   
