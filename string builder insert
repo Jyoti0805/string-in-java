@@ -1,0 +1,8 @@
+ string builder insert
+  public class stringlnameinsert {
+  public static void main(string args[]){
+  stringbuilder s=new stringbuilder("hello");
+  s.insert(1,"jyoti");
+  system.out.println(s);
+  }
+  }
