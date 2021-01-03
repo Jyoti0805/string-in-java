@@ -1,0 +1,8 @@
+public class stringlength{
+public static void main (string args[]){
+string 1 = "jyoti";
+string 2 = "panchal";
+system.out.println("length of the string is: " +s.length);
+system.out.println("length of the string is: " +p.length());
+}
+}
