@@ -1,0 +1,8 @@
+ string start and end with 
+ public class startandendwith {
+  public static void main(string args[]) {
+    string s="jyoti";
+    system.out.println(s.startwith("jyo"));
+    system.out.println(s.endwith("y"));
+    }
+ }   
