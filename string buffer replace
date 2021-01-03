@@ -1,0 +1,8 @@
+string buffer replace
+public class stringlnamereplace {
+   public static void main(string args[]){
+   stringbuffer s=new stringbuffer("hello");
+   s.replace(0,3,"jyoti");
+   system.out.println(s);
+   }
+}   
