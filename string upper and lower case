@@ -1,0 +1,9 @@
+  string to upper and lower
+    public class jyotipanchal {
+    public static void main(string args[]) {
+      string s="jyoti";
+      system.out.println(s.touppercase());
+      system.out.println(s.tolowercase());
+      system.out.println(s);
+      }
+  }    
