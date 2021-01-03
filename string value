@@ -1,0 +1,8 @@
+string value of
+ public class stringvalueof {
+   public static void main(string args[]) {
+     string s="jyoti";
+     string n=string.valueof(s);
+     system.out.println(n+2612);
+     }
+ }    
