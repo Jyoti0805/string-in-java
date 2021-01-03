@@ -1,0 +1,8 @@
+string builder delete
+public class stringlnamedelete {
+ public stati void main(string args[]) {
+ stringbuilder s=new stringbuilder ("jyoti");
+ s.delete(1,3);
+ system.out.println(s);
+ }
+ }
