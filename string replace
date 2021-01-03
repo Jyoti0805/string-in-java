@@ -1,0 +1,8 @@
+string replace
+ public class stringreplace {
+ public static void main(string args[]) {
+   string s="lnct college has a great campus");
+   string replacestring=s.replace("lncts","lnct");
+   system.out.println(replace string);
+   }
+  }
