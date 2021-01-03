@@ -1,0 +1,8 @@
+public class stringconcat {
+ public static void main(string[] args) {
+  string m = "jyoti";
+  string n = "panchal";
+  system.out.println(m.concat(n));
+  }
+  }
+  
