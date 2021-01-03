@@ -1,0 +1,8 @@
+string builder replace
+ public class stringlnamereplace {
+   public static void main(string args[]) {
+     stringbuilder s=new stringbuilder("hello");
+     s.replace(0,3,"jyoti");
+     system.out.println(s);
+   }
+ }  
